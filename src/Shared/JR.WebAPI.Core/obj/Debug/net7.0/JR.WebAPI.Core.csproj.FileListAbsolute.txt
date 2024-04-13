@@ -1,0 +1,15 @@
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\bin\Debug\net7.0\JR.WebAPI.Core.deps.json
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\bin\Debug\net7.0\JR.WebAPI.Core.dll
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\bin\Debug\net7.0\JR.WebAPI.Core.pdb
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\bin\Debug\net7.0\JR.Core.dll
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\bin\Debug\net7.0\JR.Core.pdb
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\JR.WebAPI.Core.csproj.AssemblyReference.cache
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\JR.WebAPI.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\JR.WebAPI.Core.AssemblyInfoInputs.cache
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\JR.WebAPI.Core.AssemblyInfo.cs
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\JR.WebAPI.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\JR.WebAPI.Core.csproj.CopyComplete
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\JR.WebAPI.Core.dll
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\refint\JR.WebAPI.Core.dll
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\JR.WebAPI.Core.pdb
+C:\Projetos\JogosResultados\src\Shared\JR.WebAPI.Core\obj\Debug\net7.0\ref\JR.WebAPI.Core.dll

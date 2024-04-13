@@ -1,0 +1,17 @@
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\bin\Debug\net7.0\JR.NFL.Contract.deps.json
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\bin\Debug\net7.0\JR.NFL.Contract.dll
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\bin\Debug\net7.0\JR.NFL.Contract.pdb
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\bin\Debug\net7.0\JR.Core.dll
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\bin\Debug\net7.0\JR.NFL.Language.dll
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\bin\Debug\net7.0\JR.Core.pdb
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\bin\Debug\net7.0\JR.NFL.Language.pdb
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\JR.NFL.Contract.csproj.AssemblyReference.cache
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\JR.NFL.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\JR.NFL.Contract.AssemblyInfoInputs.cache
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\JR.NFL.Contract.AssemblyInfo.cs
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\JR.NFL.Contract.csproj.CoreCompileInputs.cache
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\JR.NFL.Contract.csproj.CopyComplete
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\JR.NFL.Contract.dll
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\refint\JR.NFL.Contract.dll
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\JR.NFL.Contract.pdb
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Contract\obj\Debug\net7.0\ref\JR.NFL.Contract.dll

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\JR.NFL.Worker.props" />
+</Project>

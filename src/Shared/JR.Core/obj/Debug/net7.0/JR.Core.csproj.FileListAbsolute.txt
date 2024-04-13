@@ -1,0 +1,12 @@
+C:\Projetos\JogosResultados\src\Shared\JR.Core\bin\Debug\net7.0\JR.Core.deps.json
+C:\Projetos\JogosResultados\src\Shared\JR.Core\bin\Debug\net7.0\JR.Core.dll
+C:\Projetos\JogosResultados\src\Shared\JR.Core\bin\Debug\net7.0\JR.Core.pdb
+C:\Projetos\JogosResultados\src\Shared\JR.Core\obj\Debug\net7.0\JR.Core.csproj.AssemblyReference.cache
+C:\Projetos\JogosResultados\src\Shared\JR.Core\obj\Debug\net7.0\JR.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\JogosResultados\src\Shared\JR.Core\obj\Debug\net7.0\JR.Core.AssemblyInfoInputs.cache
+C:\Projetos\JogosResultados\src\Shared\JR.Core\obj\Debug\net7.0\JR.Core.AssemblyInfo.cs
+C:\Projetos\JogosResultados\src\Shared\JR.Core\obj\Debug\net7.0\JR.Core.csproj.CoreCompileInputs.cache
+C:\Projetos\JogosResultados\src\Shared\JR.Core\obj\Debug\net7.0\JR.Core.dll
+C:\Projetos\JogosResultados\src\Shared\JR.Core\obj\Debug\net7.0\refint\JR.Core.dll
+C:\Projetos\JogosResultados\src\Shared\JR.Core\obj\Debug\net7.0\JR.Core.pdb
+C:\Projetos\JogosResultados\src\Shared\JR.Core\obj\Debug\net7.0\ref\JR.Core.dll

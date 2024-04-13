@@ -1,0 +1,11 @@
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\bin\Debug\net7.0\JR.NFL.Language.deps.json
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\bin\Debug\net7.0\JR.NFL.Language.dll
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\bin\Debug\net7.0\JR.NFL.Language.pdb
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\obj\Debug\net7.0\JR.NFL.Language.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\obj\Debug\net7.0\JR.NFL.Language.AssemblyInfoInputs.cache
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\obj\Debug\net7.0\JR.NFL.Language.AssemblyInfo.cs
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\obj\Debug\net7.0\JR.NFL.Language.csproj.CoreCompileInputs.cache
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\obj\Debug\net7.0\JR.NFL.Language.dll
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\obj\Debug\net7.0\refint\JR.NFL.Language.dll
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\obj\Debug\net7.0\JR.NFL.Language.pdb
+C:\Projetos\JogosResultados\src\NFL\JR.NFL.Language\obj\Debug\net7.0\ref\JR.NFL.Language.dll
